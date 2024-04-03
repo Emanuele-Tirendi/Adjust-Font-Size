@@ -1,0 +1,1 @@
+**Activities** &rarr; type **accessibility** and hit **Enter** &rarr; **Seeing** &rarr; turn on **Large text**

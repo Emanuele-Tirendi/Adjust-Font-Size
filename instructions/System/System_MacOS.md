@@ -1,0 +1,1 @@
+**System preferences** or **System settings** &rarr; **displays** &rarr; optional: click for **resolution** the option **scaled** &rarr; change font size

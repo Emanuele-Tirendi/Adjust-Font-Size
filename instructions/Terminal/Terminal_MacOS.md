@@ -1,0 +1,1 @@
+Click on top **Terminal** &rarr; **preferences** &rarr; **font** &rarr; **change** &rarr; adjust font size

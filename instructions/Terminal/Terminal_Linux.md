@@ -1,0 +1,2 @@
+* On the top bar click **≡** or **edit** &rarr; **preferences** &rarr; **shortcuts** &rarr; use shortcuts for **zoom in / zoom out**
+* On the top bar click **≡** or **edit** &rarr; **preferences** &rarr; **unnamed** &rarr; **Text** &rarr; turn on **custom font** &rarr; **monospace** &rarr; adjust font size &rarr; **select**
