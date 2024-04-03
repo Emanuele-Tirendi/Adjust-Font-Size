@@ -1,5 +1,5 @@
-[Windows](Terminal_Windows)
+[Windows](Terminal_Windows.md)
 
-[MacOS](Terminal_MacOS)
+[MacOS](Terminal_MacOS.md)
 
-[Linux](Terminal_Linux)
+[Linux](Terminal_Linux.md)

@@ -1,5 +1,5 @@
-[Windows](System_Windows)
+[Windows](System_Windows.md)
 
-[MacOS](System_MacOS)
+[MacOS](System_MacOS.md)
 
-[Linux](System_Linux)
+[Linux](System_Linux.md)
