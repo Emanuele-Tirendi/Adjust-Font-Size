@@ -2,4 +2,4 @@
 
 [Terminal](instructions/Terminal/Terminal.md)
 
-[System font size](instructions/System.md)
+[System font size](instructions/System/System.md)
